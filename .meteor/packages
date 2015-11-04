@@ -21,4 +21,9 @@ insecure                # Allow all DB writes from clients (for prototyping)
 nemo64:bootstrap
 mquandalle:bower
 less
-iron:router
+dburles:google-maps
+mquandalle:jade
+accounts-google
+accounts-ui
+kadira:flow-router
+kadira:blaze-layout

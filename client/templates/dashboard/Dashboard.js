@@ -1,4 +1,4 @@
-Template.Home.onRendered(function () {
+Template.Dashboard.onRendered(function () {
   Morris.Area({
       element: 'morris-area-chart',
       data: [{
